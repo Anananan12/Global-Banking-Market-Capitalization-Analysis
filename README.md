@@ -19,6 +19,8 @@ Run specific queries to extract information for different office locations.
 
 ### Project Structure
 'Banks_db': Database file (SQLite/MySQL/PostgreSQL) with a table for the processed data.
+
+
 'banks_project.py': Python script to process the data.
 'exchange_rate.csv': Contains the exchange rates for USD, GBP, EUR, and INR.
 'Neo_Largest_bank_data.csv': banks data after transformation.
