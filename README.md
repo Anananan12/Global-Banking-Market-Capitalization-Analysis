@@ -4,7 +4,6 @@ This project involves compiling and transforming data on the top 10 largest bank
 
 ### Project Components
 #### 1. Data Collection
-
 Extract the list of the top 10 largest banks by market capitalization from the provided URL.
 #### 2. Data Transformation
 
@@ -34,8 +33,11 @@ Run specific queries to extract information for different office locations.
 Python 3.x
 
 Pandas library
+
 SQLAlchemy library
+
 BeautifulSoup library (for web scraping)
+
 SQLite/MySQL/PostgreSQL database
 
 ### Instructions
