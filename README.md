@@ -4,7 +4,7 @@ This project involves compiling and transforming data on the top 10 largest bank
 
 ### Project Components
 #### 1. Data Collection
-Extract the list of the top 10 largest banks by market capitalization from [the provided URL](https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks).
+Extract the list of the top 10 largest banks by market capitalization from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks.
 #### 2. Data Transformation
 
 Convert the market capitalization values from USD to GBP, EUR, and INR using the exchange rates from a provided CSV file.
